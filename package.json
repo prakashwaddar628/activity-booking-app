@@ -1,0 +1,32 @@
+{
+  "name": "activity-booking-app",
+  "version": "1.0.0",
+  "description": "Basic Activity Booking App with user registration, authentication, activity listing, and booking functionalities using Node.js, Express, MongoDB, and JWT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prakashwaddar628/activity-booking-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/prakashwaddar628/activity-booking-app/issues"
+  },
+  "homepage": "https://github.com/prakashwaddar628/activity-booking-app#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.14.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
