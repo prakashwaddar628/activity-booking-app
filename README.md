@@ -6,13 +6,13 @@ A RESTful API built with Node.js, Express, and MongoDB for booking activities li
 
 ## 🚀 Live API URL
 
-👉 [https://activity-booking-api.onrender.com](https://activity-booking-api.onrender.com)
+👉 [https://activity-booking-app-wnu2.onrender.com](https://activity-booking-app-wnu2.onrender.com)
 
 ---
 
 ## 📮 Postman Collection
 
-👉 [Download Postman Collection](./activity-booking-app.postman_collection.json)
+👉 [Download Postman Collection](./Activity_Booking_App.postman_collection.json)
 
 ---
 
